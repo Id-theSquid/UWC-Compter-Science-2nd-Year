@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Algorithms {
     public static int mscOn3X(int[] X){
         int n = X.length;
@@ -61,5 +63,18 @@ public class Algorithms {
             maxSoFar = Math.max(maxSoFar,maxToHere);
         }
         return maxSoFar;
+    }
+
+     public static int[] arraymaker(int n){
+         Random random = new Random();
+        int[] X = new int[n];
+         for (int k = 0; k < n; k++) {
+             int value = random.nextInt(n) + 1;
+             int exponent = random.nextInt(3) + 2;
+             int sign = (exponent % 2 == 0) ? 1 : -1;
+             X[k] = value * sign;
+
+         }
+         return X;
     }
 }
