@@ -52,6 +52,14 @@ public class Algorithms {
         return maxSoFar;
     }
 
-
-
+    public static float mcsOn(int[] X){
+       int n = X.length;
+       float maxSoFar = 0;
+       float maxToHere = 0;
+        for (int i = 0; i < n; i++) {
+            maxToHere = Math.max(maxToHere + X[i],0);
+            maxSoFar = Math.max(maxSoFar,maxToHere);
+        }
+        return maxSoFar;
+    }
 }
