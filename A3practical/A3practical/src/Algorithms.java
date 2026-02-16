@@ -84,14 +84,48 @@ public class Algorithms {
     public static void main(String[] args) {
         int n = 20;
         int[] X = arrayMaker(n);
-        System.out.println("The random array of size " + n + " is:");
-        System.out.println(Arrays.toString(X));
-        System.out.println();
-        System.out.println("Results:");
+        long startTime = 0;
+        long endTime = 0;
+        long duration = 0;
+        startTime = System.nanoTime();
         System.out.println("O(n3) : " + mscOn3X(X));
+        endTime = System.nanoTime();
+        duration = endTime - startTime;
+        System.out.println("Time taken in Nanoseconds: " + duration);
+
+
+        startTime = 0;
+        endTime = 0;
+        duration = 0;
+
+        //
+        startTime = System.nanoTime();
         System.out.println("O(n2) : " + mscOn2A(X));
+        endTime = System.nanoTime();
+        duration = endTime - startTime;
+        System.out.println("Time taken in Nanoseconds: " + duration);
+
+        //
+        startTime = 0;
+        endTime = 0;
+        duration = 0;
+
+        //
+        startTime = System.nanoTime();
         System.out.println("O(n2) : " + mscOn2B(X));
-        System.out.println("O(n)  : " + mcsOn(X));
+        endTime = System.nanoTime();
+        duration = endTime - startTime;
+        System.out.println("Time taken in Nanoseconds: " + duration);
+
+        //
+        startTime = 0;
+
+        //
+        startTime = System.nanoTime();
+        System.out.println("O(n) : " + mcsOn(X));
+        endTime = System.nanoTime();
+        duration = endTime - startTime;
+        System.out.println("Time taken in Nanoseconds: " + duration);
     }
 }
 
