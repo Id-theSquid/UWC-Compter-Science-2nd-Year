@@ -1,10 +1,21 @@
 // Code is stored as 13template.java
 import java.lang.Math.*;   import java.io.*;   import java.text.*;
 
-public class timeMethods{
-    public static int N = ....;
-    public static void main(String args[]){
+static class Node {
+    int key;
+    String data;
+    Node(int k,String d) {key = k;data = d;}
+}
 
+public class timeMethods{
+    public static int N = 0;
+    public static void main(String args[]) throws IOException {
+        BufferedReader br = new BufferedReader(new FileReader("ulysses.numbered"));
+        String line;
+        while ((line = br.readLine()) != null){
+        
+
+        }
         DecimalFormat twoD = new DecimalFormat("0.00");
         DecimalFormat fourD = new DecimalFormat("0.0000");
         DecimalFormat fiveD = new DecimalFormat("0.00000");
@@ -18,10 +29,17 @@ public class timeMethods{
         runTime = 0;
         for(repetition = 0; repetition < repetitions; repetition++) {
             start = System.currentTimeMillis();
+            linearsearch ();
+            finish = System.currentTimeMillis();
+            time = finish - start;
+            runTime+= time;
 
-            // call the procedures to time here:
-            linearsearch (...);
-            binarysearch (...);
+
+            start = System.currentTimeMillis();
+            binarysearch ();
+            finish = System.currentTimeMillis();
+            time = finish - start;
+            runTime2 += time;
             // Figure out how to alter this guideline here,
 
             finish = System.currentTimeMillis();
@@ -50,8 +68,16 @@ public class timeMethods{
         System.out.println();
         System.out.println(); }	}
 
-static void oneofyourMethods(int n,
-                             yourMethodParameter1,
-                             yourMethodParameter2, . . . ) {
+public static void linearsearch(int n,int[] arr){
+    for (int i = 0; i < arr.length ; i++) {
+        if (arr[i] == n){
+            System.out.println("Found it ");
+        }
+    }
+}
+
+public static void binarysearch(int n,int[] arr){
+
+}
 // The declarations and body of your method / s
 // The final statement of this code.} }
