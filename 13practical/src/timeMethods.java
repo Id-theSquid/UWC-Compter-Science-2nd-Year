@@ -13,9 +13,11 @@ public class timeMethods{
         BufferedReader br = new BufferedReader(new FileReader("ulysses.numbered"));
         String line;
         while ((line = br.readLine()) != null){
-        
+
 
         }
+        br.close();
+
         DecimalFormat twoD = new DecimalFormat("0.00");
         DecimalFormat fourD = new DecimalFormat("0.0000");
         DecimalFormat fiveD = new DecimalFormat("0.00000");
@@ -68,7 +70,7 @@ public class timeMethods{
         System.out.println();
         System.out.println(); }	}
 
-public static void linearsearch(int n,int[] arr){
+public static void linearsearch(int n,Node[] arr){
     for (int i = 0; i < arr.length ; i++) {
         if (arr[i] == n){
             System.out.println("Found it ");
@@ -76,8 +78,21 @@ public static void linearsearch(int n,int[] arr){
     }
 }
 
-public static void binarysearch(int n,int[] arr){
-
+public static Node binarysearch(int n,Node[] arr){
+     int left = 0;
+     int right = arr.length - 1;
+     int mid = (left + right) / 2;
+     while (left <= right){
+         if (arr[mid].key == n) {
+             return arr[mid];
+         }
+         else if(arr[mid].key < n){
+             left =mid + 1;
+             }
+         else{
+             right = mid-1;
+         }
+     }
 }
 // The declarations and body of your method / s
 // The final statement of this code.} }
