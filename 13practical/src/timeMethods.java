@@ -1,10 +1,13 @@
 // Code is stored as 13template.java
+//Idowu Popoola
+//4546626
+//2026/02/23
+
 import java.lang.Math.*;   import java.io.*;   import java.text.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-
 
 
 
@@ -21,7 +24,7 @@ public class timeMethods{
 
         }
         br.close();
-        int[] arr = list.stream().mapToInt(i -> i).toArray();
+        int[] arr = list.stream().mapToInt(i -> i).toArray(); // had to look how stream() is worked
         Arrays.sort(arr);
         DecimalFormat twoD = new DecimalFormat("0.00");
         DecimalFormat fourD = new DecimalFormat("0.0000");
