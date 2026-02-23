@@ -1,23 +1,28 @@
 // Code is stored as 13template.java
 import java.lang.Math.*;   import java.io.*;   import java.text.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
 
-static class Node {
-    int key;
-    String data;
-    Node(int k,String d) {key = k;data = d;}
-}
+
+
 
 public class timeMethods{
     public static int N = 0;
     public static void main(String args[]) throws IOException {
+        List<Integer> list = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader("ulysses.numbered"));
         String line;
         while ((line = br.readLine()) != null){
-
+        String[] parts = line.split("\\s" ,2);
+        int k =Integer.parseInt(parts[0]);
+        list.add(k);
 
         }
         br.close();
-
+        int[] arr = list.stream().mapToInt(i -> i).toArray();
+        Arrays.sort(arr);
         DecimalFormat twoD = new DecimalFormat("0.00");
         DecimalFormat fourD = new DecimalFormat("0.0000");
         DecimalFormat fiveD = new DecimalFormat("0.00000");
@@ -27,18 +32,21 @@ public class timeMethods{
         double totalTime = 0.0;
         int n = N;
         int repetition, repetitions = 30;
+        Random rand = new Random();
 
         runTime = 0;
         for(repetition = 0; repetition < repetitions; repetition++) {
+
+            int key = rand.nextInt(32654) + 1;
             start = System.currentTimeMillis();
-            linearsearch ();
+            linearsearch(key,arr);
             finish = System.currentTimeMillis();
             time = finish - start;
             runTime+= time;
 
 
             start = System.currentTimeMillis();
-            binarysearch ();
+            binarysearch (key,arr);
             finish = System.currentTimeMillis();
             time = finish - start;
             runTime2 += time;
@@ -68,31 +76,35 @@ public class timeMethods{
         System.out.println("Repetitions  =             " + repetitions);
         System.out.println("________________________________________________");
         System.out.println();
-        System.out.println(); }	}
+        System.out.println(); }
 
-public static void linearsearch(int n,Node[] arr){
-    for (int i = 0; i < arr.length ; i++) {
-        if (arr[i] == n){
-            System.out.println("Found it ");
+    public static int linearsearch(int n, int[] arr){
+        for (int i = 0; i < arr.length ; i++) {
+            if (arr[i] == n) {
+                return i;
+            }
+
         }
+        return -1;
     }
-}
 
-public static Node binarysearch(int n,Node[] arr){
-     int left = 0;
-     int right = arr.length - 1;
-     int mid = (left + right) / 2;
-     while (left <= right){
-         if (arr[mid].key == n) {
-             return arr[mid];
-         }
-         else if(arr[mid].key < n){
-             left =mid + 1;
+    public static int binarysearch(int n, int[] arr){
+         int left = 0;
+         int right = arr.length - 1;
+         int mid = (left + right) / 2;
+         while (left <= right){
+             if (arr[mid] == n) {
+                 return arr[mid];
              }
-         else{
-             right = mid-1;
+             else if(arr[mid] < n){
+                 left =mid + 1;
+                 }
+             else{
+                 right = mid-1;
+             }
          }
-     }
+         return -1;
+    }
 }
 // The declarations and body of your method / s
 // The final statement of this code.} }
