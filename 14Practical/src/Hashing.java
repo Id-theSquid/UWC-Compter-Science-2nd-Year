@@ -16,6 +16,7 @@ public class Hashing {
     public static void main(String[] args) {
         Random random = new Random();
         int N = 1 << 20;
+        int first = 950_000;
         List<Integer> keys = new ArrayList<>(N);
 
         for (int i = 0; i < N ; i++) {
