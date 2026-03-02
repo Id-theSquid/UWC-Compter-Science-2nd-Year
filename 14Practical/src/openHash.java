@@ -21,13 +21,13 @@ public class openHash {
         this.table = new Entry[m];
         this.size = 0;
     }
-
+    // Question 3A
     public int hash(String key){
         int h = key.hashCode();
         h = Math.abs(h);
         return h % m;
     }
-
+    // Question 3B
     public boolean insert(String key,String value){
         if (isFull()) return false;
         int index = hash(key);
@@ -42,6 +42,22 @@ public class openHash {
         table[index] = new Entry(key,value);
         size++;
         return true;
-
     }
+      // Question 3C
+    public String lookup(String key) {
+        int index = hash(key);
+        int start = index;
+        while(table[index] != null){
+            if(!table[index].deleted && table[index].key.equals(key)){
+                return  table[index].value;
+            }
+            index = (index + 1) % m;
+
+            if (index == start)
+                break;
+        }
+        return null;
+    }
+
+    
 }
