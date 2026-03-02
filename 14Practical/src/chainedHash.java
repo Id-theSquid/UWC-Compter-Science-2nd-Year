@@ -52,6 +52,18 @@ public class chainedHash {
         size++;
     }
 
+    public String lookup(String key) {
+        int index = hash(key);
+        Node current = table[index];
+
+        while (current != null){
+            if (current.key.equals(key)){
+                return current.value;
+            }
+           current = current.next;
+        }
+        return null;
+    }
 
 
 }
