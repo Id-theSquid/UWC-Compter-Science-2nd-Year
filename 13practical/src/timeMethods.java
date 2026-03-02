@@ -34,32 +34,32 @@ public class timeMethods{
         double runTime = 0, runTime2 = 0, time;
         double totalTime = 0.0;
         int n = N;
-        int repetition, repetitions = 30;
+        int repetitions = 30;
         Random rand = new Random();
 
         runTime = 0;
-        for(repetition = 0; repetition < repetitions; repetition++) {
+        runTime2 = 0;
 
+        for (int repetition = 0; repetition < repetitions; repetition++) {
             int key = rand.nextInt(32654) + 1;
+
+            // Linear search timing
             start = System.currentTimeMillis();
-            linearsearch(key,arr);
+            linearsearch(key, arr);
             finish = System.currentTimeMillis();
             time = finish - start;
-            runTime+= time;
+            runTime += time;          // accumulate total linear time
+            runTime2 += time * time;  // accumulate squared linear time
 
-
+            // Binary search timing
             start = System.currentTimeMillis();
-            binarysearch (key,arr);
+            binarysearch(key, arr);
             finish = System.currentTimeMillis();
             time = finish - start;
-            runTime2 += time;
-            // Figure out how to alter this guideline here,
+            totalTime += time;        // accumulate total binary time
+            // if you want variance for binary too, add another accumulator
+        }
 
-            finish = System.currentTimeMillis();
-
-            time = (double)(finish - start);
-            runTime += time;
-            runTime2 += (time*time); }
 
         double aveRuntime = runTime/repetitions;
         double stdDeviation =
