@@ -80,6 +80,25 @@ public class openHash {
         return null;
     }
 
+    // Question 3E
+
+    public boolean isInTable(String key){
+        return lookup(key) != null;
+    }
+
+    public boolean isFull() {
+        return size == m;
+    }
+
+    public boolean isEmpty(){
+        return size == 0;
+    }
+
+    public int size(){
+        return size;
+    }
+
+
 
 
 }
