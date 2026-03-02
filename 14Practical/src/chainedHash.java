@@ -65,5 +65,28 @@ public class chainedHash {
         return null;
     }
 
+    public String remove(String key){
+        int index = hash(key);
+        Node current = table[index];
+        Node prev = null;
+
+        while(current != null) {
+            if (current.key.equals(key)) {
+
+                if (prev == null){
+
+                    table[index] = current.next;
+                }
+                else{
+                    prev.next = current.next;
+                }
+                size--;
+                current = current.next;
+            }
+            prev = current;
+            current = current.next;
+        }
+        return  null;
+    }
 
 }
