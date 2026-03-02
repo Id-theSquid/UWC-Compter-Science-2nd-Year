@@ -20,4 +20,13 @@ public class chainedHash {
         this.table = new Node[m];
         this.size = 0;
     }
+
+    public int hash(String key){
+        int h = key.hashCode();
+        h = Math.abs(h);
+        return h % m;
+    }
+
+    
+
 }
