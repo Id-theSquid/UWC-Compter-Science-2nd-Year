@@ -89,4 +89,15 @@ public class chainedHash {
         return  null;
     }
 
+    public boolean isInTable(String key) {
+        return lookup(key) != null;
+    }
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    public int size(){
+        return size;
+    }
+
 }
