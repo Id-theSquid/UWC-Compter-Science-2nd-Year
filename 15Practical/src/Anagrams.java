@@ -12,7 +12,9 @@ public class Anagrams {
 
     public static void main(String[] args) throws IOException {
         String filename = "ulysses.text"; // Making a varable to store the path of the given textfile
+
         BufferedReader fileReader;
+
         try {
             fileReader = new BufferedReader(new FileReader(filename));
             System.out.println("Opened the file: " + filename);
@@ -24,9 +26,9 @@ public class Anagrams {
         HashMap<String,Integer> D = new HashMap<>();
             String line;
         while ((line = fileReader.readLine()) != null){
-                String[] words = line.split("\\s"); // any chreacter thats not in a-zA-z
+                String[] words = line.split("\\s+"); // any chreacter thats not in a-zA-z
                 for (String w : words){
-                    String cleaned = w.replaceAll("[^a-zA-z']","");
+                    String cleaned = w.replaceAll("[^a-zA-Z']",""); // therre was a mistake here but i fixed it 
                     cleaned = cleaned.toLowerCase(); // makes it lower case
                     if (cleaned.isEmpty()) continue;
                     D.put(cleaned, D.getOrDefault(cleaned, 0) + 1); // added one if its a new word
@@ -81,19 +83,12 @@ public class Anagrams {
                     currentLetter = firstLetter;
                     writer.println("\n---" + Character.toUpperCase(currentLetter) + "----");
                 }
-                writer.println(String.join("," , group));
+                writer.println(String.join(", " , group));
             }
 
             System.out.println("\nAnagram dictionary was written to: " + outputFile);
-            System.out.println("\nFirst 20 anagram groups (preview):");
-            System.out.println("==========================================");
-
-            int preview = Math.min(20, anagramGroups.size());
-            for (int i = 0; i < preview; i++) {
-                System.out.println(String.join(", ", anagramGroups.get(i)));
-            }
         } catch (IOException e){
-            System.err.println("ERROR writing output file: " + e.getMessage());
+            System.err.println("There was an error writing output file: " + e.getMessage());
         }
 
     }

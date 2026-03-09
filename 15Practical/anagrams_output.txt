@@ -1,1640 +1,1560 @@
 =====ANAGRAM DICTIONARY=======
 Generated from: ulysses.text
-Total anagram groups: 1585
+Total anagram groups: 1507
 ===============================
 
 
 ---'----
-'slife,flies',life's
-'tis,it's
-
----_----
-_a,a_
-_all,_lal,all_
-_alleluia,alleluia_
-_at,_ta
-_back,back_
-_behind,behind_
-_bloom,bloom_
-_bona,bona_
-_calls,calls_
-_clerk,clerk_
-_cloche,cloche_
-_closing,closing_
-_come,come_
-_corpus,corpus_
-_cuckoo,cuckoo_
-_das,_sad
-_de,de_
-_down,down_
-_elijah,elijah_
-_erin,erin_
-_euge,euge_
-_farewell,farewell_
-_feeling,feeling_
-_femme,femme_
-_fetor,forte_
-_for,for_,fro_
-_from,form_,from_
-_ga,ga_
-_gaily,gaily_
-_god,god_
-_goodbye,goodbye_
-_gravely,gravely_
-_hamlet,hamlet_
-_hand,hand_
-_hands,hands_
-_he,eh_
-_head,head_
-_heart,earth_,heart_
-_heigho,heigho_
-_her,her_
-_hoarsely,hoarsely_
-_il,il_
-_impassive,impassive_
-_in,in_
-_ireland,ireland_
-_is,is_
-_it,_ti,it_
-_jerks,jerks_
-_kilkenny,kilkenny_
-_la,la_
-_lait,tail_
-_laugh,laugh_
-_laughing,laughing_
-_laughs,laughs_
-_life,life_
-_look,look_
-_lovesongs,lovesongs_
-_low,low_
-_lynch,lynch_
-_m'appari,m'appari_
-_ma,ma_
-_maestro,maestro_
-_martha,martha_
-_mater,mater_
-_mon,nom_
-_more,more_
-_murmuring,murmuring_
-_murmurs,murmurs_
-_non,non_
-_nos,son_
-_not,not_
-_o,o_
-_old,old_
-_on,on_
-_paddy,paddy_
-_per,pre_
-_piano,piano_
-_points,points_
-_pray,pray_
-_rus,_sur
-_saluting,saluting_
-_screams,screams_
-_sea,sea_
-_she,she_
-_shouting,shouting_
-_sin,sin_
-_sir,sir_
-_slowly,slowly_
-_smiles,smiles_
-_sniffs,sniffs_
-_sonnez,sonnez_
-_spans,snaps_
-_staboo,staboo_
-_stands,stands_
-_starts,starts_
-_stephen,stephen_
-_sua,sua_
-_suil,ilus_
-_table,table_
-_tears,stare_
-_thalatta,thalatta_
-_that,that_
-_the,the_
-_then,then_
-_tiens,tiens_
-_to,to_
-_turns,turns_
-_twilight,twilight_
-_vere,ever_
-_visszontlatasra,visszontlatasra_
-_vive,vive_
-_voglio,voglio_
-_vorrei,vorrei_
-_watching,watching_
-_waves,waves_
-_when,when_
-_whispers,whispers_
-_whistles,whistles_
-_white,white_
-_why,why_
-_winks,winks_
-_youth,youth_
+'slife, flies', life's
+'tis, it's
 
 ---A----
-able,bale,elba
-aboard,abroad
-ache,each,haec
-aches,chase
-acme,came,mace
-aconite,actione
-acre,care,race
-acres,cares,cesar,races,sacre,scare
-acrostic,socratic
-act,cat
-acts,cast
-ad,da
-adc,cad
-add,dad
-adders,sadder
-adepts,pasted
-adiutorium,auditorium
-admirer,married
-admonition,domination
-ador,road
-adorer,roared
-adorn,doran,ronda
-ads,sad
-ae,ea
-ages,sage
-agnus,angus
-agone,genoa
-agree,eager
-agrin,grain
-ah,ha
-aid,dia
-aids,said
-ailments,aliments
-ails,sail
-air,iar
-aiulella,alleluia
-akeled,leaked
-al,la
-albert,bartle
-albino,albion
-albs,slab
-alec,lace
-alert,alter,later
-alien,linea
-aligned,dealing,leading
-all,lal
-almany,layman
-almond,dolman
-alnight,halting
-aloft,float
-along,longa
-alors,solar
-alpine,pineal
-altars,astral
-altered,related
-alther,halter,lather
-altitude,latitude
-am,ma
-amber,bream
-amble,blame,lambe,mabel
-ambled,bedlam
-ambles,blames,lambes
-amen,mane,mean,name
-amen_,name_
-amend,named
-amendment,mandement
-amid,maid
-among,mango
-amor,omar
-ample,maple,palme
-amuse,eamus
-an,na
-and,dan
-andrew,derwan,wander,warden,warned
-andrew's,derwan's
-anear,arena
-angel,angle,glean,nagle
-angel's,nagle's
-angels,angles,nagles
-anger,range
-anon,onan
-answ,swan
-ant,nat,tan
-anthem,hamnet
-antics_,sancti_
-antrim,martin
-any,nay
-ape,pea
-apes,peas
-apologies,apologise
-appal,papal
-apricots,piscator
-apt,pat,tap
-ar,ra
-arc,car
-arches,sacher,search
-arching,chagrin,charing
-ardent,darent
-are,ear,era
-arent,erant
-argent,garnet,garten
-argus,sugar
-aries,arise,raise
-arises,raises
-arising,raising
-arm,ram
-arm's,ram's,rams'
-armagh,graham
-armed,darem,dream,madre
-arming,ingram,margin
-armpits,imparts
-arms,mars,rams
-armstrap,ramparts
-army,mary,myra
-arnold,roland
-arrest,rarest
-arse,ears
-arsing,grains
-art,rat,tar
-artists,straits
-arts,rats,star,tars,tsar
-as,sa
-ascend,dances
-ascertain,sectarian
-ascot,coast,coats
-ash,has
-ashen,shane
-ashes,heass
-ashore,hoarse
-aside,ideas
-asleep,please
-ass,sas
-assert,asters,stares
-astute,statue
-aswing,sawing
-ate,eat,tea
-athos,oaths
-atitudes,situated
-atom,moat
-atoned,donate
-atten,tante
-attentive,tentative
-auction,caution
-audibly,daubily
-avail,avila
-avarice,caviare
-avec,cave
-aver,vear,vera
-averred,everard
-averts,starve,vaster
-avis,vias
-avon,nova
-awl,law,wal
-awry,wary
-axes,saxe
-ay,ya
-ayes,easy
+abba, baba
+able, bale, elba
+aboard, abroad
+ache, each, haec
+aches, chase
+acme, came, mace
+aconite, actione
+acre, care, race
+acres, cares, cesar, races, sacre, scare
+acrostic, socratic
+act, cat
+acts, cast
+ad, da
+adc, cad
+add, dad
+adders, sadder
+adepts, pasted
+adhuc, chaud
+adiutorium, auditorium
+admirer, married
+admonition, domination
+ador, road
+adorer, roared
+adorn, doran, ronda
+ads, das, sad
+ae, ea
+after, frate
+ages, sage
+agnus, angus
+agone, genoa
+agree, eager
+agrin, grain
+ah, ha
+aid, dia
+aids, said
+ailments, aliments
+ails, sail
+aim, ami
+aims, mais
+air, iar
+ait, ita
+aiulella, alleluia
+akeled, leaked
+al, la
+albert, bartle
+albino, albion
+albs, slab
+alec, lace
+alert, alter, later
+alien, linea
+aligned, dealing, leading
+all, lal
+almany, layman
+almond, dolman
+alnight, halting
+aloft, float
+along, longa
+alors, solar
+alpine, pineal
+altars, astral
+altered, related
+alther, halter, lather
+altitude, latitude
+am, ma
+amber, bream
+amble, blame, lambe, mabel
+ambled, bedlam
+ambles, blames, lambes
+amen, mane, mean, name
+amend, named
+amendment, mandement
+amid, maid
+amiss, missa
+among, mango
+amor, omar
+ample, maple, palme
+amuse, eamus
+an, na
+and, dan
+andrew, derwan, wander, warden, warned
+andrew's, derwan's
+anear, arena
+angel, angle, glean, nagle
+angel's, nagle's
+angels, angles, nagles
+anger, range
+anno, anon, onan
+ans, san
+answ, swan
+ant, nat, tan
+anthem, hamnet
+antics, sancti
+antrim, martin
+any, nay
+ape, pea
+apes, peas
+apologies, apologise
+appal, papal
+apricots, piscator
+apt, pat, tap
+ar, ra
+arc, car
+arches, sacher, search
+arching, chagrin, charing
+ardent, darent
+ardenti, rendita, trained
+are, ear, era
+arent, erant
+argent, garnet, garten
+argus, sugar
+aries, arise, raise
+arises, raises
+arising, raising
+arm, ram
+arm's, ram's, rams'
+armagh, graham
+armed, darem, dream, madre
+arming, ingram, margin
+armpits, imparts
+arms, mars, rams
+armstrap, ramparts
+army, mary, myra
+arnold, roland
+arrest, rarest
+arse, ears
+arsing, grains
+art, rat, tar
+artists, straits
+arts, rats, star, tars, tsar
+as, sa
+ascend, dances
+ascertain, sectarian
+ascot, coast, coats
+ash, has
+ashen, shane
+ashes, heass
+ashore, hoarse
+aside, ideas
+asleep, please
+ass, sas
+assert, asters, stares
+astute, statue
+aswing, sawing
+at, ta
+ate, eat, tea
+athos, oaths
+atitudes, situated
+atom, moat
+atoned, donate
+atten, tante
+attentive, tentative
+auction, caution
+audibly, daubily
+avail, avila
+avarice, caviare
+avec, cave
+aver, vear, vera
+averred, everard
+averts, starve, vaster
+avis, vias
+avon, nova
+awed, wade, weda
+awl, law, wal
+awry, wary
+axes, saxe
+ay, ya
+ayes, easy
 
 ---B----
-backwards,drawbacks
-bad,dab
-badge,begad
-badger,garbed
-bairns,brains
-balm,lamb
-ban,nab
-bane,bean
-bard,drab
-bards,drabs
-bare,bear
-bared,beard,bread
-barely,barley
-bares,bears
-based,beads
-bast,bats,stab
-bastile,bestial
-bathers,breaths
-battle,tablet
-battles,tablets
-be,eb
-beamy,maybe
-beards,sabred
-beast,beats
-beat,beta
-bed,deb
-beer,bere
-beest,beset
-begin,being
-begins,beings
-belial,liable
-bella,label
-below,bowel,elbow
-beni,bien
-bertha,breath
-beshrew,hebrews
-bestir,tribes
-bids,dibs
-big,gib
-birds,dribs
-birth,brith
-bison,nobis
-blake,bleak
-bleating,tangible
-blisters,bristles
-blot,bolt
-blotted,bottled
-blow,bowl
-blows,bowls
-blub,bulb
-bluest,bustle,subtle
-boar,roba
-board,broad
-boast,boats
-body,boyd
-body's,boyd's
-boer,bore,robe
-boers,bores,robes,sober
-bog,gob
-bole,lobe
-boles,lobes
-bolster,lobster
-bom,mob
-bone,ebon,nebo
-bono,boon
-bookpocket,pocketbook
-boom,oomb
-bored,robed
-boss,sobs
-bounder,rebound
-bowels,elbows
-boy's,boys'
-boyne,ebony
-brady,darby
-brain,brian
-brake,break
-brakes,breaks
-breadsoda,sodabread
-bridal,ribald
-brief,fibre
-bronzegold,goldbronze
-broth,throb
-bruise,buries,rubies
-brush,shrub
-brutes,buster,tubers
-bud,dub
-bugger's,buggers'
-bur,rub
-burden,burned
-bury,ruby
-busy,buys
-but,tub
-butcher's,butchers'
-buttering,rebutting
+backwards, drawbacks
+bad, dab
+badge, begad
+badger, garbed
+bairns, brains
+balm, lamb
+ban, nab
+bane, bean
+bard, drab
+bards, drabs
+bare, bear
+bared, beard, bread
+barely, barley
+bares, bears
+based, beads
+bast, bats, stab
+bastile, bestial
+bathers, breaths
+battle, tablet
+battles, tablets
+be, eb
+beamy, maybe
+beards, sabred
+beast, beats
+beat, beta
+bed, deb
+been, bene
+beer, bere
+beest, beset
+begin, being
+begins, beings
+behan, haben
+belial, liable
+bella, label
+below, bowel, elbow
+beni, bien
+bertha, breath
+beshrew, hebrews
+bestir, tribes
+bids, dibs
+big, gib
+birds, dribs
+birth, brith
+bison, nobis
+blake, bleak
+blare, blear
+bleating, tangible
+bleats, stable, tables
+blisters, bristles
+blot, bolt
+blotted, bottled
+blow, bowl
+blows, bowls
+blub, bulb
+bluest, bustle, subtle
+boar, roba
+board, broad
+boast, boats
+body, boyd
+body's, boyd's
+boer, bore, robe
+boers, bores, robes, sober
+bog, gob
+bole, lobe
+boles, lobes
+bolster, lobster
+bom, mob
+bone, ebon, nebo
+bono, boon
+bookpocket, pocketbook
+boom, oomb
+bored, robed
+bos, sob
+boss, sobs
+bounder, rebound
+bowels, elbows
+boy's, boys'
+boyne, ebony
+brady, darby
+brain, brian
+brake, break
+brakes, breaks
+breadsoda, sodabread
+bridal, ribald
+brief, fibre
+bronzegold, goldbronze
+broth, throb
+bruise, buries, rubies
+brush, shrub
+brutes, buster, tubers
+bud, dub
+bugger's, buggers'
+bur, rub
+burden, burned
+bury, ruby
+busy, buys
+but, tub
+butcher's, butchers'
+buttering, rebutting
 
 ---C----
-cabs,scab
-cackling,clacking
-cadge,caged
-cafe,face
-cafes,faces
-calmer,carmel
-calvary,cavalry
-calve,clave
-cameron,romance
-canny,nancy
-canon,conan
-canter,nectar,recant
-caoc,coca
-cape,pace
-capel,place
-caper,crape
-capers,scrape
-cared,cedar
-caress,scares
-caring,racing
-carking,racking
-carlo,coral
-carmen,cramen
-cartoons,corantos
-case,seca
-cashed,chased
-castile,elastic
-cat's,cats'
-catering,creating
-catsup,upcast
-cauls,lucas
-cause,sauce
-cautioned,education
-cavern,craven
-cellar,recall
-cenar,crane
-censor,crones
-centralised,credentials
-centre,recent
-cents,scent
-ceylon,cloyne
-chain,china
-chain's,china's
-chain_,china_
-chants,snatch
-charles,larches
-charm,march
-charmed,marched
-charming,marching
-charts,starch
-chazen,nachez
-cheap,peach
-cheat,hecat,tache,teach
-cheer,chree
-chenille,hellenic
-chi,ich
-childman,manchild
-chin,inch
-chink,kinch
-chon,noch
-chosen,cohens,noches
-christian,christina
-chum,much
-cider,cried
-cigar,craig
-cinque,quince
-circle,cleric
-circles,clerics
-cist,cits
-cited,ticed
-cither,thrice
-claimed,decimal,medical
-clanged,glanced
-clanging,glancing
-clans,lancs
-claps,clasp,scalp
-clare,clear
-claret,rectal
-clean,lance
-cleans,lances
-cleared,declare
-clo,col
-clod,cold
-cloister,coistrel
-clot,colt
-cloud,could
-cluster,cutlers
-coastline,sectional
-cod,doc
-cod's,cods'
-codlings,scolding
-cohen,enoch
-coign,incog
-coins,scion
-colum,locum
-companion's,companions'
-compiled,complied
-concent,connect
-cone,once
-cones,scone
-conical,laconic
-conservation,conversation
-conserve,converse
-consoles,coolness
-cork,rock
-corking,rocking
-corks,rocks
-corns,scorn
-corpses,process
-corpus,croups
-corse,score
-corselet,electors
-coster,escort
-costs,scots
-cours,scour
-course,crusoe,source
-courses,croesus
-courtesan,nectarous
-couth,touch
-cove,voce
-crags,scrag
-crate,trace
-crates,traces
-crawls,scrawl
-creams,scream
-creation,reaction
-creations,reactions
-creator,reactor
-credit,direct
-crisp,scrip
-crocus,occurs
-crude,cured
-cruel,lucre
-cruse,cures,curse
-cruses,curses
-cry,cyr
-cuts,scut
-cyril,lyric
+cabs, scab
+cackling, clacking
+cadge, caged
+cafe, face
+cafes, faces
+calmer, carmel
+calvary, cavalry
+calve, clave
+cameron, romance
+canny, nancy
+canon, conan
+canter, nectar, recant
+caoc, coca
+cape, pace
+capel, place
+caper, crape
+capers, scrape
+capotes, toecaps
+cared, cedar
+caress, scares
+caring, racing
+carking, racking
+carlo, coral
+carmen, carnem, cramen
+cartoons, corantos
+case, seca
+cashed, chased
+castile, elastic
+casual, lacaus
+cat's, cats'
+catering, creating
+catsup, upcast
+cauls, lacus, lucas
+cause, sauce
+cautioned, education
+cavern, craven
+cellar, recall
+cenar, crane
+censor, crones
+centralised, credentials
+centre, recent
+cents, scent
+centurion, incruento
+certo, recto
+ceylon, cloyne
+chain, china
+chain's, china's
+chants, snatch
+charles, larches
+charm, march
+charmed, marched
+charming, marching
+charts, starch
+chazen, nachez
+cheap, peach
+cheat, hecat, tache, teach
+cheer, chree
+chenille, hellenic
+chi, ich
+childman, manchild
+chin, inch
+chink, kinch
+chon, noch
+chosen, cohens, noches
+christian, christina
+chum, much
+cider, cried
+cigale, gaelic
+cigar, craig
+cinque, quince
+circle, cleric
+circles, clerics
+cist, cits
+cited, ticed
+cither, thrice
+claimed, decimal, medical
+clanged, glanced
+clanging, glancing
+clans, lancs
+claps, clasp, scalp
+clare, clear
+claret, rectal
+clean, lance
+cleans, lances
+cleared, declare
+clo, col
+clod, cold
+cloister, coistrel
+clot, colt
+cloud, could
+cluster, cutlers
+coastline, sectional
+cod, doc
+cod's, cods'
+codlings, scolding
+cohen, enoch
+coign, incog
+coiled, docile
+coins, scion
+colum, locum
+companion's, companions'
+compiled, complied
+concent, connect
+cone, once
+cones, scone
+conical, laconic
+conservation, conversation
+conserve, converse
+consoles, coolness
+cordelia, cordiale
+cork, rock
+corking, rocking
+corks, rocks
+corns, scorn
+corps, crops
+corpses, process
+corpus, croups
+corse, score
+corselet, electors
+coster, escort
+costs, scots
+cours, scour
+course, crusoe, source
+courses, croesus
+courtesan, nectarous
+couth, touch
+cove, voce
+crags, scrag
+crate, trace
+crates, rectas, traces
+crawls, scrawl
+creams, scream
+creation, reaction
+creations, reactions
+creator, reactor
+credit, direct
+cresset, secrets
+crime, merci
+crisp, scrip
+crocus, occurs
+crude, cured
+cruel, lucre
+cruse, cures, curse
+cruses, curses
+cry, cyr
+cuts, scut
+cyril, lyric
 
 ---D----
-dagger,ragged
-daily,lydia
-dairy,diary
-dale,deal,lead,leda
-daleth,halted
-daly,lady
-daly's,lady's
-dam,mad
-dame,deam,made,mead
-dames,meads
-damned,demand,madden
-dander,darned
-dane,dean
-danger,gander,garden,ranged
-dangers,gardens
-daniel,denial,nailed
-dans,sand
-dapper,rapped
-dare,dear,read
-dargle,gerald,glared
-darting,trading
-darwin,inward
-dates,sated
-daw,wad
-dawn,wand
-dawson,sandow
-dawson's,sandow's
-day's,days'
-de,ed
-deaf,fade
-dealers,leaders
-deals,leads
-dealt,delta
-dearer,reader,reared,reread
-dearg,grade
-dearth,hatred,thread
-death,hated
-deceiver,received
-dedale,leaded
-dedalo,loaded
-deduce,deuced,educed
-deed,eded
-deeper,peered
-deepest,steeped
-deeply,yelped
-defeats,feasted
-dei,die,ide
-dei_,die_
-del,led
-delia,ideal
-delight,lighted
-demi,dime
-demon,monde
-demurrer,murderer
-den,end,ned
-denied,indeed
-dense,needs
-density,destiny
-deo,doe
-depart,parted
-deposit,posited
-depress,pressed
-der,red
-descent,scented
-desert,rested
-deserts,dessert
-deserve,severed
-deshil,shield
-design,signed,singed
-desire,reside
-desired,resided
-despair,pardies,praised
-despot,posted
-detest,tested
-detour,toured
-deus,sued,used
-devil,lived
-devise,sieved
-dew,edw,wed
-dewily,widely
-di,id
-dial,laid
-dies,ides,side
-diet,tide,tied
-dignam,mangid
-dignity,tidying
-dim,mid
-dimple,limped
-din,ind
-diner,nidre
-diner's,diners'
-dingy,dying
-dire,ride
-directions,discretion
-discreet,discrete
-disease,seaside
-disk,kids
-dit,itd
-divers,drives
-doaty,toady,today
-does,dose,odes
-dog,god
-dog's,dogs',god's,gods'
-dogs,gods
-doings,dosing
-dolan,donal
-dolly,oldly
-dolor,drool
-dolphin,pinhold
-dolt,told
-dome,edom,mode
-don,nod
-dons,nods
-doom,mood
-dooooooooooog,goooooooooood
-door,rood
-doors,roods
-dorset,sorted,stored,strode
-dos,sod
-dost,dots,tods
-doyles,yodels
-doz,odz
-dr,rd
-drain,nadir
-drake,raked
-drap,pard
-draw,ward
-drawer,reward,warder,warred
-draws,sward,wards
-dresser,redress
-drier,rider
-dring,grind
-drol,lord
-drop,prod
-drove,roved
-dubliners,unbridles
-duets,usted
-dun,und
-dunams,sundam
-dure,rude,rued
-dureth,hurted
-durst,turds
-dust,stud
-dusty,study
-duties,suited
-dwindles,swindled
-dye,edy
+dagger, ragged
+daily, lydia
+dairy, diary
+dale, deal, lead, leda
+daleth, halted
+daly, lady
+daly's, lady's
+dam, mad
+dame, deam, made, mead
+dames, meads
+damned, demand, madden
+dander, darned
+dane, dean
+danger, gander, garden, ranged
+dangers, gardens
+daniel, denial, nailed
+dans, sand
+dapper, rapped
+dare, dear, read
+dargle, gerald, glared
+darting, trading
+darwin, inward
+dates, sated
+daw, wad
+dawn, wand
+dawson, sandow
+dawson's, sandow's
+day's, days'
+de, ed
+deaf, fade
+dealers, leaders
+deals, leads
+dealt, delta
+dearer, reader, reared, reread
+dearg, grade
+dearth, hatred, thread
+death, hated
+deceiver, received
+declaims, medicals
+dedale, leaded
+dedalo, loaded
+deduce, deuced, educed
+deed, eded
+deeper, peered
+deepest, steeped
+deeply, yelped
+defeats, feasted
+dei, die, ide
+dein, dine
+del, led
+delia, ideal
+delight, lighted
+demi, dime, medi
+demon, monde
+demurrer, murderer
+den, end, ned
+denied, indeed
+dense, needs
+density, destiny
+deo, doe
+depart, parted
+deposit, posited
+depress, pressed
+der, red
+descent, scented
+desert, rested
+deserts, dessert
+deserve, severed
+deshil, shield
+design, signed, singed
+desire, reside
+desired, resided
+despair, pardies, praised
+despot, posted
+detest, tested
+detour, toured
+deus, sued, used
+devil, lived
+devise, sieved
+dew, edw, wed
+dewily, widely
+di, id
+dial, laid
+dienen, dineen
+dies, ides, side
+diet, tide, tied
+dignam, mangid
+dignity, tidying
+dil, ild, lid
+dim, mid
+dimple, limped
+din, ind
+diner, nidre
+diner's, diners'
+dingy, dying
+dire, ride
+directions, discretion
+discreet, discrete
+disease, seaside
+disk, kids
+dit, itd
+divers, drives
+doaty, toady, today
+does, dose, odes
+dog, god
+dog's, dogs', god's, gods'
+dogs, gods
+doings, dosing
+dolan, donal
+doldy, oddly
+dolly, oldly
+dolor, drool
+dolphin, pinhold
+dolt, told
+dome, edom, mode
+domus, modus
+don, nod
+dons, nods
+doom, mood
+dooooooooooog, goooooooooood
+door, rood
+doors, roods
+dorset, sorted, stored, strode
+dos, sod
+dost, dots, tods
+doyles, yodels
+doz, odz
+dr, rd
+drain, nadir
+drake, raked
+drap, pard
+draw, ward
+drawer, reward, warder, warred
+drawing, warding
+draws, sward, wards
+dresser, redress
+drier, rider
+dring, grind
+drol, lord
+drop, prod
+drove, roved
+dubliners, unbridles
+duets, usted
+dun, und
+dunams, sundam
+dure, rude, rued
+dureth, hurted
+durst, turds
+dust, stud
+dusty, study
+duties, suited
+dwindles, swindled
+dye, edy
 
 ---E----
-earl,lear,real
-early,layer,leary
-earn,near
-earnest,eastern,nearest
-earth,hater,heart,rathe
-earth's,heart's
-earthy,hearty
-east,eats,esta,seat,teas
-easter,eaters,teresa
-eats_,esta_
-eden,need
-edges,sedge
-editor,tierod
-edward's,edwards'
-eels,else,lees
-eeltraps,prelates
-ees,see
-egos,goes
-eh,he
-eht,the
-eight,tighe
-eighth,height
-eis,ise
-eke,kee
-el,le
-ellpodbomool,molldopeloob
-ells,sell
-elsa,sale,seal
-elster,streel
-em,me
-emigrants,mastering,streaming
-en,ne
-endow,owned
-ends,send
-energy,greeny
-english,shingle
-enlist,inlets,listen,silent,tinsel
-ennis,nines
-enquire,enrique
-enters,resent
-entrails,latrines
-envied,veined
-eon,one
-eons,nose,ones
-ephod,hoped
-epsom,poems
-erased,seared
-erate,taree
-ere,ree
-erin,rein,rien
-ero,oer,ore,roe
-erse,seer
-erst,rest,ster
-es,se
-esant,nates
-esquire,queries
-ess,ses
-est,set
-esther,hester,theres
-et,te
-ethel,lethe
-ether,there,three
-eton,note,tone
-eve,vee
-ever,veer,vere
-evil,live,veil,vile
-evils,lives,veils
-ewart,water
-except,expect
-excepted,expected
-eykes,keyes
+earl, lear, real
+early, layer, leary
+earn, near
+earnest, eastern, nearest
+earth, hater, heart, rathe
+earth's, heart's
+earthy, hearty
+east, eats, esta, seat, teas
+easter, eaters, teresa
+eden, need
+edges, sedge
+editor, tierod
+edward's, edwards'
+eels, else, lees
+eeltraps, prelates
+ees, see
+egos, goes
+eh, he
+eht, the
+eight, tighe
+eighth, height
+eis, ise
+eke, kee
+el, le
+ellpodbomool, molldopeloob
+ells, sell
+elsa, sale, seal
+elster, streel
+em, me
+emigrants, mastering, streaming
+en, ne
+endow, owned
+ends, send
+energy, greeny
+engines, ginnees
+english, shingle
+enlist, inlets, listen, silent, tinsel
+ennis, nines
+enquire, enrique
+enter, entre
+enters, resent
+entire, entrie
+entrails, latrines
+envied, veined
+eon, one
+eons, nose, ones
+ephod, hoped
+epi, pie
+epsom, poems
+erased, seared
+erate, taree
+ere, ree
+erin, rein, rien
+ero, oer, ore, roe
+erse, seer
+erst, rest, ster
+es, se
+esant, nates
+esprit, priest, stripe, tripes
+esquire, queries
+ess, ses
+est, set
+esther, hester, theres
+et, te
+ethel, lethe
+ether, there, three
+eton, note, tone
+eve, vee
+ever, veer, vere
+evil, live, veil, vile
+evils, lives, veils
+ewart, water
+except, expect
+excepted, expected
+eykes, keyes
 
 ---F----
-facilitate,laetificat
-failer,ferial
-fait_,fiat_
-false,fleas
-fare,fear
-farst,farts
-fart,raft
-fate,feat
-fates,feast
-father's,fathers'
-fealty,featly
-fears,safer
-feeling,fleeing
-feels,flees
-feet,fete
-fein,fine
-felt,left
-field,filed
-fiendish,finished
-file,life
-files,flies
-filter,trifle
-finder,friend
-finger,fringe
-finger_,fringe_
-fingers,fringes
-fintan,infant
-fired,fried
-first,rifts
-fist,fits,sift
-flea,leaf
-flesh,shelf
-flirting,trifling
-flits,lifts
-flo,fol
-flog,golf
-flow,fowl,wolf
-flowing,wolfing
-flows,fowls
-flue,fuel
-fo,of
-for,fro,rof
-forest,foster,softer
-form,from
-former,reform
-forth,froth
-fratres,rafters
-free,reef
-freer,frere
-freshest,freshets
-funeral,runefal
-furs,surf
+facilitate, laetificat
+failer, ferial
+fait, fiat
+false, fleas
+fare, fear
+farst, farts
+fart, raft
+fate, feat
+fates, feast
+father's, fathers'
+fealty, featly
+fears, safer
+feeling, fleeing
+feels, flees
+feet, fete
+fein, fine
+felt, left
+fetor, forte
+field, filed
+fiendish, finished
+file, life
+files, flies
+filter, trifle
+finder, friend
+finger, fringe
+fingers, fringes
+fintan, infant
+fired, fried
+first, rifts
+fist, fits, sift
+flair, frail
+flea, leaf
+flesh, shelf
+flirting, trifling
+flits, lifts
+flo, fol
+flog, golf
+flow, fowl, wolf
+flowing, wolfing
+flows, fowls
+flue, fuel
+fo, of
+for, fro, rof
+forest, foster, softer
+form, from
+former, reform
+forth, froth
+fratres, rafters
+free, reef
+freer, frere
+freshest, freshets
+funeral, runefal
+furs, surf
 
 ---G----
-gael,gale
-galle,legal
-gallery,largely
-gan,nag
-garb,grab
-garn,rang
-garner,ranger
-gases,sages
-gates,stage
-gave,vega
-gear,rage
-genitals,stealing
-geraniums,measuring
-gerard,regard
-german,manger
-gev,veg
-ghoul,lough
-giant,ignat
-gilded,glided
-ginger,nigger
-girl's,girls'
-glare,lager,large,regal
-glinting,tingling
-gnash,hangs
-gnat,tang
-go,og
-goat,toga
-golden,longed
-goner,negro
-gores,gorse
-gorman,morgan
-gort,grot
-gourme,morgue
-gouts,gusto
-governors,grosvenor
-gpi,pig
-gradient,treading
-grained,reading
-granite,tangier,tearing
-granuaile,neuralgia
-grate,great
-greekjew,jewgreek
-grin,ring
-grin_,ring_
-grins,rings
-grips,sprig
-groan,organ
-groans,organs
-groans_,organs_
-grouse,rogues
-grown,wrong
-grudge,rugged
-grunts,strung
-guests,gusset
-gulp,plug
-gum,mug
-gums,mugs
-guns,snug,sung
-gust,guts,tugs
+gael, gale
+galle, legal
+gallery, largely
+gan, nag
+garb, grab
+garn, rang
+garner, ranger
+gases, sages
+gates, stage
+gave, vega
+gear, rage
+genitals, stealing
+geraniums, measuring
+gerard, regard
+german, manger
+gev, veg
+ghoul, lough
+giant, ignat
+gilded, glided
+ginger, nigger
+girl's, girls'
+glare, lager, large, regal
+glens, sgenl
+glinting, tingling
+gnash, hangs
+gnat, tang
+go, og
+goat, toga
+golden, longed
+goner, negro
+gores, gorse
+gorman, morgan
+gort, grot
+gourme, morgue
+gouts, gusto
+governors, grosvenor
+gpi, pig
+gradient, treading
+grained, reading
+graize, grazie
+granite, tangier, tearing
+granuaile, neuralgia
+grate, great
+greekjew, jewgreek
+grin, ring
+grindstone, stringendo
+grins, rings
+grips, sprig
+groan, organ
+groans, organs
+grouse, rogues
+grown, wrong
+grudge, rugged
+grunts, strung
+guests, gusset
+gulp, plug
+gum, mug
+gums, mugs
+guns, snug, sung
+gust, guts, tugs
 
 ---H----
-hades,heads,shade
-hairs,shira
-hale,leah
-hallows,shallow
-halls,shall
-halo,hola
-halt,lath
-halts,shalt
-ham,mah
-hampton,phantom
-hams,sham
-handel,handle
-hardest,threads
-hare,hear
-hares,hears,share
-harps,sharp
-harris,sirrah
-hash,shah
-hasn't,shan't
-hasp,psha
-hast,hats
-haste,hates
-hat,tha
-hate,heat
-hatter,threat
-haunting,unhating
-have,heva
-haw,wha
-heaps,phase,shape
-hearses,sheares
-heights,highest
-heir,hire
-hell's,she'll
-helotic,tholice
-hem,meh
-herds,shred
-herit,their
-heron,horne
-hes,she
-hesouls,shesoul
-hewing,whinge
-hewn,when
-hews,shew
-hide,hied
-higgins,sighing
-higgins_,sighing_
-hight,thigh
-hinges,neighs
-hint,thin
-hips,ship
-his,ihs
-hist,shit,this
-homer,moher
-hoo,oho
-hoop,pooh
-hoots,shoot,sooth
-hops,shop
-hordes,horsed,rhodes
-hornies,inshore
-horse,shore
-horse's,horses'
-horses,shores
-horus,hours
-hose,shoe
-hoses,shoes
-host,shot,thos
-hot,oth
-hotel,thole
-hotter,tother
-hour's,hours'
-houselights,lighthouses
-how,who
-how's,who's
-however,whoever
-htengier,reigneth
-hug,ugh
-huk,kuh
-hums,mush
-huntress,hurtness
-hurdle,hurled
-hurt,ruth
+hades, heads, shade
+hairs, shira
+hale, leah
+hallows, shallow
+halls, shall
+halo, hola
+halt, lath
+halts, shalt
+ham, mah
+hampton, phantom
+hams, sham
+handel, handle
+hardest, threads
+hare, hear
+hares, hears, share
+harps, sharp
+harris, sirrah
+hash, shah
+hasn't, shan't
+hasp, psha
+hast, hats
+haste, hates
+hat, tha
+hate, heat
+hatter, threat
+haunting, unhating
+have, heva
+haw, wha
+heaps, phase, shape
+hearses, sheares
+heights, highest
+heir, hire
+hell's, she'll
+helotic, tholice
+hem, meh
+henri, rhine
+herds, shred
+herit, their
+heron, horne
+hes, she
+hesouls, shesoul
+hewing, whinge
+hewn, when
+hews, shew
+hide, hied
+higgins, sighing
+hight, thigh
+hinges, neighs
+hint, thin
+hips, ship
+his, ihs
+hist, shit, this
+homer, moher
+hoo, oho
+hooks, shook
+hoop, pooh
+hoots, shoot, sooth
+hops, shop
+hordes, horsed, rhodes
+hornies, inshore
+horse, shore
+horse's, horses'
+horses, shores
+horus, hours
+hose, shoe
+hoses, shoes
+host, shot, thos
+hot, oth
+hotel, thole
+hotter, tother
+hour's, hours'
+houselights, lighthouses
+how, who
+how's, who's
+however, whoever
+htengier, reigneth
+hug, ugh
+huk, kuh
+hums, mush
+huntress, hurtness
+hurdle, hurled
+hurt, ruth
 
 ---I----
-iffley,liffey
-ignore,region
-il,li
-ild,lid
-ilk,lik
-ill,lil
-ills,sill
-im,mi
-impress,simpers
-impression,permission
-in,ni
-inall,niall
-inceptions,inspection
-inces,since
-incessant,instances
-incest,insect,nescit
-incests,insects
-ines,sine
-inev,vein
-ink,kin
-inkling,linking
-inmate,netaim
-innings,sinning
-inns,sinn
-insert,intres
-inserted,resident,sentried
-instead,sainted,stained
-insult,sunlit
-integers,steering
-integral,triangle
-intend,tinned
-invece,venice
-iota,otia
-irately,reality
-ireland,irlande
-iron,noir
-irving,virgin
-is,si
-isle,lies
-isnt,nist,tins
-isolde,soiled
-it,ti
-italy,laity
-item,mite,time
-items,times
-itll,lilt,till
-its,sit
-ivan,vain
-ive,vie
-ivers,rives,servi
+iffley, liffey
+ignore, region
+il, li
+ilk, lik
+ill, lil
+ills, sill
+ilus, suil
+im, mi
+impress, simpers
+impression, permission
+in, ni
+inall, niall
+inceptions, inspection
+inces, since
+incessant, instances
+incest, insect, nescit
+incests, insects
+ines, sine
+inev, vein
+ink, kin
+inkling, linking
+inmate, netaim
+innings, sinning
+inns, sinn
+insert, intres
+inserted, resident, sentried
+instanter, transient
+instead, sainted, stained
+insult, sunlit
+integers, steering
+integral, triangle
+intend, tinned
+invece, venice
+iota, otia
+irately, reality
+ireland, irlande
+iron, noir
+irving, virgin
+is, si
+isle, lies
+isnt, nist, tins
+isolde, soiled
+it, ti
+italy, laity
+item, mite, time
+items, times
+itll, lilt, till
+its, sit
+ivan, vain
+ive, vie
+ivers, rives, servi
 
 ---J----
-jacob's,jacobs'
-jameson,nosejam
-jane,jean
-jest,jets
-jew's,jews'
-johnyellows,yellowjohns
+jacob's, jacobs'
+jameson, nosejam
+jane, jean
+jest, jets
+jew's, jews'
+johnyellows, yellowjohns
 
 ---K----
-kale,lake
-karl,lark
-karma,makar
-kate,take
-kay,yak
-kcirtap,patrick
-keats,stake,steak,takes
-keen,knee
-keen_,knee_
-keens,knees
-keys,skye
-kills,skill
-king's,kings'
-kran,rank
+kale, lake
+karl, lark
+karma, makar
+kate, take
+kay, yak
+kcirtap, patrick
+keats, stake, steak, takes
+keen, knee
+keens, knees
+keys, skye
+kills, skill
+king's, kings'
+kran, rank
 
 ---L----
-laces,scale
-ladies,sailed
-ladys,sadly
-lain,nail
-lair,liar
-lakes,leaks,slake
-lame,male,meal
-lamp,palm
-lamps,palms,psalm
-lane,lean
-lanes,leans
-lap,pal
-lapels,palles
-laps,pals,slap
-lapse,leaps,pleas
-laredo,ordeal
-larum,mural
-last,salt
-lasted,salted
-lasts,salts,slats
-late,tale
-latent,latten,talent
-latere,relate,tearle
-latter,rattle
-laughs,sluagh
-laved,valde
-lays,slay
-leader's,leaders'
-leap,pale,peal,plea
-leaped,pealed
-leapers,pleaser
-leaping,pealing
-learnt,rental
-least,slate,stale,steal,tales
-leat_,tale_
-leer,reel
-leers,reels
-leet,tlee
-lei,lie
-leinster,listener
-leith,lithe
-lemon,melon
-lemons,melons,solemn
-lenders,slender
-lenses,lessen
-leo,ole
-leop,pole
-leper,repel
-lest,lets
-levanter,relevant
-lewis,wiles
-licensed,silenced
-licks,slick
-lids,slid
-lights,slight
-likens,silken
-lilts,still
-lima,mail
-lime,mile
-lin,nil
-line,nile
-linear,nailer
-lingam,malign
-lino,lion,loin
-lio,oil
-lionmaned,mandoline
-lions,loins
-lips,lisp,slip
-list,slit
-listed,silted
-litt,tilt
-liv,vil
-live_,veil_
-liver,livre
-livers,silver
-livery,verily
-lives_,veils_
-loaf,olaf
-lodge,ogled
-loftier,trefoil
-loop,polo,pool
-looped,poodle
-looping,pooling
-loops,pools
-lopes,poles,slope
-lose,sloe,sole
-loses,soles
-lost,lots,slot
-lost_,lots_
-lovely,volley
-lover's,lovers'
-low,owl
-lower,rowel
-lowers,slower
-lows,slow
-lubber,rubble
-lump,plum
-lumps,plums
-lumpy,plumy
-lunation,ultonian
-lungs,slung
-lure,rule
-lured,ruled
-luring,ruling
-lusk,sulk
-lust,slut
-lustre,result,rustle,sutler,ulster
-lusts,sluts
-lynam,manly
-lyon,only
-lyre,rely
+laces, scale
+ladies, sailed
+ladys, sadly
+lain, nail
+lair, liar
+lait, tail
+lakes, leaks, slake
+lame, male, meal
+lamp, palm
+lamps, palms, psalm
+lane, lean
+lanes, leans
+lap, pal
+lapels, palles
+lapin, plain
+laps, pals, slap
+lapse, leaps, pleas
+laredo, ordeal
+larum, mural
+last, salt
+lasted, salted
+lasts, salts, slats
+late, leat, tale
+latent, latten, talent
+latere, relate, tearle
+latter, rattle
+laughs, sluagh
+laved, valde
+lays, slay
+leader's, leaders'
+leap, pale, peal, plea
+leaped, pealed
+leapers, pleaser
+leaping, pealing
+learnt, rental
+least, slate, stale, steal, tales
+leer, reel
+leers, reels
+leet, tlee
+lei, lie
+leinster, listener
+leith, lithe
+lemon, melon
+lemons, melons, solemn
+lenders, slender
+lenses, lessen
+leo, ole
+leop, pole
+leper, repel
+lest, lets
+levanter, relevant
+lewis, wiles
+licensed, silenced
+licks, slick
+lids, slid
+lights, slight
+likens, silken
+lilts, still
+lima, mail
+lime, mile
+lin, nil
+line, nile
+linear, nailer
+lingam, malign
+lino, lion, loin
+lio, oil
+lionmaned, mandoline
+lions, loins
+lips, lisp, slip
+list, slit
+listed, silted
+litt, tilt
+liv, vil
+liver, livre
+livers, silver
+livery, verily
+loaf, olaf
+lodge, ogled
+loftier, trefoil
+loop, polo, pool
+looped, poodle
+looping, pooling
+loops, pools
+lopes, poles, slope
+lose, sloe, sole
+loses, soles
+lost, lots, slot
+lovely, volley
+lover's, lovers'
+low, owl
+lower, rowel
+lowers, slower
+lows, slow
+lubber, rubble
+lump, plum
+lumps, plums
+lumpy, plumy
+lunation, ultonian
+lungs, slung
+lure, rule
+lured, ruled
+luring, ruling
+lusk, sulk
+lust, slut
+lustre, result, rustle, sutler, ulster
+lusts, sluts
+lynam, manly
+lyon, only
+lyre, rely
 
 ---M----
-macht,match
-magennis,meanings
-magrane,manager
-mahar,marha
-maiden,medina
-mailed,medial
-main,mina
-maior,mario,moira
-males,meals
-mano,moan,mona
-manse,means,mensa,names
-mantel,mantle,mental
-manures,surname
-marble,ramble
-mares,reams,smear
-margarine,margerain
-master,stamer,stream
-masters,streams
-mastery,streamy
-mat,tam
-mate,meat,tame,team
-mater,trema
-mates,meats,steam,teams
-matey,meaty
-mathering,nightmare
-mattress,smartest
-maun,unam
-meatpot,peatmot
-mechanics,mischance
-meet,teem
-meeting,teeming
-merit,mitre
-mermaid's,mermaids'
-message,seagems
-met,tem
-midden,minded
-mien,mine
-mien_,mine_
-miles,slime,smile
-minions,nominis
-minuet,minute
-minuets,minutes,sminute
-minute's,minutes'
-mio,moi
-miracle,reclaim
-mis,smi
-misled,smiled
-mister,mitres
-mit,tim
-mittens,smitten
-mocks,smock
-molars,morals
-mon,nom
-month's,months'
-moo,oom
-moods,sodom
-moor,room
-moore,romeo
-moors,rooms
-mop,pom
-mope,poem
-moran,norma,roman
-more,rome
-most,mots,stom
-motes,smote,tomes
-mother's,mothers'
-mothers,smother
-mow,wom
-mp,pm
-mur,rum
-mus,sum,ums
-must,smut
-muy,yum
+macht, match
+magennis, meanings
+magrane, manager
+mahar, marha
+maid's, maids'
+maiden, medina
+mailed, medial
+main, mina
+maior, mario, moira
+males, meals
+mano, moan, mona
+manse, means, mensa, names
+mantel, mantle, mental
+manu, maun, unam
+manures, surname
+marble, ramble
+mares, reams, smear
+margarine, margerain
+master, stamer, stream
+masters, streams
+mastery, streamy
+mat, tam
+mate, meat, tame, team
+mater, trema
+mates, meats, steam, teams
+matey, meaty
+mathering, nightmare
+mattress, smartest
+meatpot, peatmot
+mechanics, mischance
+meet, teem
+meeting, teeming
+merit, mitre
+mermaid's, mermaids'
+message, seagems
+met, tem
+midden, minded
+mien, mine
+miles, slime, smile
+minions, nominis
+minuet, minute
+minuets, minutes, sminute
+minute's, minutes'
+mio, moi
+miracle, reclaim
+mis, smi
+misled, smiled
+mister, mitres
+mit, tim
+mittens, smitten
+mocks, smock
+molars, morals
+mon, nom
+month's, months'
+moo, oom
+moods, sodom
+moor, room
+moore, romeo
+moors, rooms
+mop, pom
+mope, poem
+moran, norma, roman
+more, rome
+most, mots, stom
+motes, smote, tomes
+mother's, mothers'
+mothers, smother
+mow, wom
+mp, pm
+mur, rum
+mus, sum, ums
+must, smut
+muy, yum
 
 ---N----
-nags,sang
-nails,slain,snail
-nap,pan
-nape,neap,pane
-napier,rapine
-naples,planes
-nasty,tansy
-nebula,unable
-neither,therein
-nerve,never
-nest,nets,sent,tens
-net,ten
-news,sewn
-night,thing
-night's,thing's
-nightcap,patching
-nights,things
-nip,pin
-nit,tin
-no,on
-nodes,nosed
-nono,noon
-norse,senor,snore
-nos,son
-noserag,oranges
-nostrae,treason
-nostre,tenors
-not,ton
-notes,stone,tones
-notices,section
-nous,onus,ouns
-now,own,won
-now_,own_
-nowhere,whereon
-nowt,town,wont
-nude,unde
-nudity,untidy
-nutarians,saturnian
-nuts,stun,sunt
+nags, sang
+nails, slain, snail
+nap, pan
+nape, neap, pane
+napier, rapine
+naples, planes
+nasty, tansy
+nebula, unable
+neither, therein
+nemo, omne
+nerve, never
+nest, nets, sent, tens
+net, ten
+news, sewn
+niggers, snigger
+night, thing
+night's, thing's
+nightcap, patching
+nights, things
+nip, pin
+nit, tin
+no, on
+nodes, nosed
+nono, noon
+norse, senor, snore
+nos, son
+noserag, oranges
+nostrae, treason
+nostre, tenors
+not, ton
+notes, stone, tones
+notices, section
+notre, tenor
+nous, onus, ouns
+now, own, won
+nowhere, whereon
+nowt, town, wont
+nude, unde
+nudity, untidy
+nutarians, saturnian
+nuts, stun, sunt
 
 ---O----
-oar,ora
-oars,rosa,soar
-observe,obverse
-oder,rode
-oillamp,palmoil
-oils,soil
-oily,yilo
-omens,omnes
-omnipotent,tnetopinmo
-omnis,simon
-ontario,oration
-oot,too
-optic,topic
-optical,topical
-option,potion
-or,ro
-orb,rob
-oriental,relation
-orts,rots,sort
-osier,serio
-other's,others'
-others,throes
-otherwise,whiterose
-ought,tough
-ours,sour
-out,tuo
-out_,tuo_
-outer,route
-outside,tedious
-over,vero
-owe,woe
-owns,snow,sown
-oyster,storey
+oar, ora
+oars, rosa, soar
+observe, obverse
+oder, rode
+oillamp, palmoil
+oils, soil
+oily, yilo
+omens, omnes
+omnipotent, tnetopinmo
+omnis, simon
+ontario, oration
+oot, too
+optic, topic
+optical, topical
+option, potion
+or, ro
+orb, rob
+oriental, relation
+orts, rots, sort
+osier, serio
+other's, others'
+others, throes
+otherwise, whiterose
+otto, toto
+ought, tough
+ours, sour
+out, tuo
+outer, route
+outs, tous
+outside, tedious
+over, vero
+owe, woe
+owns, snow, sown
+oyster, storey
+oysters, storeys
 
 ---P----
-paces,space
-pains,spain
-pairs,paris
-paled,pedal
-paler,pearl
-palice,plaice
-paltry,partly
-paly,play
-panel,penal,plane
-pans,snap,span
-par,rap
-parents,pastern
-paring,raping
-parks,spark
-parsed,spread
-parsley,players
-part,rapt,trap
-parties,pirates
-parts,strap,traps
-pass,spas
-passed,spades
-past,pats,spat,stap,taps
-paste,tapes
-pasteur,pasture
-pasty,patsy
-pate,peat,tape
-paternal,prenatal
-patty,pyatt
-paw,wap
-pawns,spawn
-peaks,spake,speak
-pear,rape
-pears,spare,spear
-peartree,repartee
-peels,sleep
-peer,pere,pree
-peers,spree
-pelters,petrels
-pelts,slept,spelt
-penis,pensi,spine
-performed,preformed
-peri,pier,ripe
-perils,pliers
-peripatetic,precipitate
-perkin,pinker
-persia,praise
-persist,priests,stripes
-peru,pure
-pest,sept,step
-petals,plates,pleats,staple
-phases,shapes
-phrases,shapers
-pieces,specie
-pierce,recipe
-pig's,pigs'
-pikes,spike
-piled,plied
-pills,spill
-pilots,pistol,spoilt
-pins,snip,spin
-piss,sips
-pisser,spires
-pisses,sepsis
-piston,points
-pit,tip
-pits,spit,tips
-plasto,postal
-plod,pold
-plood,poldo
-plumtree,trumplee
-plup,pulp
-poet's,poets'
-pointer,protein
-pokes,spoke
-polis,spoil
-poop,popo
-pore,rope
-pored,roped
-pores,poser,prose,ropes
-port,trop
-porter,report
-ports,sport
-pos,sop
-poses,posse
-post,pots,spot,stop,tops
-poster,presto,topers
-pot,top
-poun,upon
-pram,ramp
-prays,spray
-precise,recipes
-pres,resp
-present,serpent
-presented,serpented
-presenting,serpenting
-presents,serpents
-presume,supreme
-prey,pyre
-prides,spider
-priest,stripe,tripes
-priest's,priests'
-printers,reprints
-prints,sprint
-proud,pudor
-pseudo,souped
-pu,up
-pulper,purple
-punks,spunk
-pup,upp
-purse,super
-pursuing,usurping
-puss,sups
-put,tup
-pwee,weep
+paces, space
+pains, spain
+pairs, paris
+paled, pedal
+paler, pearl
+palice, plaice
+paltry, partly
+paly, play
+panel, penal, plane
+pans, snap, span
+par, rap
+parents, pastern
+paring, raping
+parks, spark
+parsed, spared, spread
+parsley, players
+part, rapt, trap
+parties, pirates
+parts, strap, traps
+pass, spas
+passed, spades
+past, pats, spat, stap, taps
+paste, tapes
+pasteur, pasture
+pasty, patsy
+pate, peat, tape
+paternal, prenatal
+patty, pyatt
+paw, wap
+pawns, spawn
+pays, yaps
+peaks, spake, speak
+pear, rape
+pears, spare, spear
+peartree, repartee
+peels, sleep
+peer, pere, pree
+peers, spree
+pelters, petrels
+pelts, slept, spelt
+penis, pensi, spine
+per, pre
+performed, preformed
+peri, pier, ripe
+perils, pliers
+peripatetic, precipitate
+perkin, pinker
+pero, pore, rope
+persia, praise
+persist, priests, stripes
+perso, pores, poser, prose, ropes
+peru, pure
+pest, sept, step
+petals, plates, pleats, staple
+phases, shapes
+phrases, shapers
+pieces, specie
+pierce, recipe
+pig's, pigs'
+pikes, spike
+piled, plied
+pills, spill
+pilots, pistol, spoilt
+pins, snip, spin
+piss, sips
+pisser, spires
+pisses, sepsis
+piston, points
+pit, tip
+pits, spit, tips
+plasto, postal
+plod, pold
+plood, poldo
+plumtree, trumplee
+plup, pulp
+poet's, poets'
+pointer, protein
+pokes, spoke
+polis, spoil
+poop, popo
+pored, roped
+port, trop
+porter, report
+ports, sport
+pos, sop
+poses, posse
+post, pots, spot, stop, tops
+poster, presto, topers
+pot, top
+poun, upon
+pram, ramp
+prays, spray
+precise, recipes
+pres, resp
+present, serpent
+presented, serpented
+presenting, serpenting
+presents, serpents
+presume, supreme
+prey, pyre
+prides, spider
+priest's, priests'
+printers, reprints
+prints, sprint
+proud, pudor
+pseudo, souped
+pu, up
+pulper, purple
+punks, spunk
+pup, upp
+purse, super
+pursuing, usurping
+pus, sup, ups
+puss, sups
+put, tup
+pwee, weep
 
 ---Q----
-quiet,quite
-quires,squire
-quote,toque
+quiet, quite
+quires, squire
+quote, toque
 
 ---R----
-rapier,repair
-rapparee,reappear
-rare,rear
-rasps,spars
-rat's,tar's
-rate,tare,tear
-rates,stare,tears
-raths,trash
-raw,war
-rayed,ready
-reagents,sergeant
-realised,sidereal
-rede,reed
-refunded,underfed
-reins,resin,rinse,risen,siren
-rendita,trained
-repast,tapers
-rescue,secure
-reserve,reverse
-reserved,reversed
-reset,steer,trees
-resist,sister
-resorted,restored
-respect,sceptre,spectre
-rests,tress
-retort,rotter
-retta,treat
-reunite,uterine
-reveals,several
-rialto,tailor
-riband,rinbad
-rictus,rustic
-ringlets,sterling
-rise,sire
-rises,sires
-ristori,tiroirs
-rit,tir
-rites,tries
-roars,sorra
-rodents,snorted
-roes,rose,sore
-rogue,rouge
-roost,roots,toros
-root,toro
-rote,tore
-rotha,torah
-rout,tour,trou
-run,urn
-ruse,sure
-ryan,yarn
-rye,yer
+rapier, repair
+rapparee, reappear
+rare, rear
+rasps, spars
+rat's, tar's
+rata, tara
+rate, tare, tear
+rates, stare, tears
+raths, trash
+raw, war
+rayed, ready
+reagents, sergeant
+realised, sidereal
+rede, reed
+refunded, underfed
+reins, resin, rinse, risen, siren
+repast, tapers
+rescue, secure
+reserve, reverse
+reserved, reversed
+reset, steer, trees
+resist, sister
+resorted, restored
+respect, sceptre, spectre
+rests, tress
+retort, rotter
+retta, treat
+reunite, uterine
+reveals, several
+rialto, tailor
+riband, rinbad
+rictus, rustic
+ringlets, sterling
+rise, sire
+rises, sires
+ristori, tiroirs
+rit, tir
+rites, tries
+roars, sorra
+rodents, snorted
+roes, rose, sore
+rogue, rouge
+roost, roots, toros
+root, toro
+rote, tore
+rotha, torah
+rout, tour, trou
+run, urn
+rus, sur
+ruse, sure
+ryan, yarn
+rye, yer
 
 ---S----
-sacred,scared
-sacring,scaring
-saint,satin,stain
-saints,stains
-saling,signal
-salutant,tantalus
-salve,slave,vales
-salvi,vials
-same,seam
-santa,satan
-santa_,satan_
-sargent,strange
-sartin,strain,trains
-sashed,shades
-save,vase
-saviour,various
-saw,was
-scep,spec
-schooling,slooching
-sea's,seas'
-seated,sedate,teased
-seculi,sluice
-seddon,sodden
-selves,vessel
-sennet,tenens
-servant,taverns
-serve,sever,verse
-serves,verses
-servo,verso
-setter,street,tester
-sewed,weeds
-shame,shema
-shares,shears
-shattering,straighten
-shaw,wash
-shawl,walsh
-sheet,thees,these
-ship's,ships'
-shiver,shrive
-shooting,soothing
-shorten,thrones
-shout,south,thous
-shout_,south_
-shouting,southing
-shower,whores
-shut,thus
-sidles,slides
-sidling,sliding
-sign,sing
-sign_,sing_
-signs,sings
-sink,skin
-sinks,skins
-skates,stakes
-skirting,striking
-slander,snarled
-sleet,steel
-smart,trams
-snake,sneak
-snakes,sneaks
-snot,sont,tons
-sono,soon
-soul's,souls'
-sparrow's,sparrows'
-spilt,split
-spirt,strip,trips
-spots,stops
-stable,tables
-stalk,talks
-stared,trades,treads
-starred,traders
-start,tarts
-state,taste,teats,testa
-stated,tasted
-statement,testament
-states,tastes
-stating,tasting
-stave,vesta
-stayed,steady
-stephen's,stephens'
-stew,west
-stewed,tweeds
-stiff,tiffs
-stimulate,ultimates
-stiver,strive
-stoer,store
-stood,todos
-stout,touts
-stow,twos
-straw,swart,warts
-stray,trays
-struck,trucks
-strut,trust
-struts,trusts
-student,stunted
-sue,use
-suing,using
-suit,tuis
-sun,uns
-sup,ups
-surge,urges
-swain,wains
-swarm,warms
-sway,ways
-swear,wares,wears
-sweat,waste
-sweep,weeps
-sweeper,weepers
-swell,wells
-swig,wigs
-swill,wills
-swine,wines
-swing,wings
-swipe,wipes
-swire,weirs,wires
-sword,words
-swore,worse
+sacred, scared
+sacring, scaring
+saint, satin, stain
+saints, stains
+salient, slainte
+saling, signal
+salutant, tantalus
+salve, slave, vales
+salvi, vials
+same, seam
+santa, satan
+sargent, strange
+sartin, strain, trains
+sashed, shades
+save, vase
+saviour, various
+saw, was
+scep, spec
+schooling, slooching
+sea's, seas'
+seated, sedate, teased
+seculi, sluice
+seddon, sodden
+selves, vessel
+sennet, tenens
+servant, taverns
+serve, sever, verse
+serves, verses
+servo, verso
+setter, street, tester
+sewed, weeds
+shame, shema
+shares, shears
+shattering, straighten
+shaw, wash
+shawl, walsh
+sheet, thees, these
+ship's, ships'
+shiver, shrive
+shooting, soothing
+shorten, thrones
+shout, south, thous
+shouting, southing
+shower, whores
+shut, thus
+sidles, slides
+sidling, sliding
+sign, sing
+signs, sings
+silly, slily
+sink, skin
+sinks, skins
+skates, stakes
+skirting, striking
+slander, snarled
+sleet, steel
+smart, trams
+snake, sneak
+snakes, sneaks
+snaps, spans
+snot, sont, tons
+sono, soon
+soul's, souls'
+sparrow's, sparrows'
+spilt, split
+spirt, strip, trips
+spots, stops
+stalk, talks
+stanhope, stephano
+stared, trades, treads
+starred, traders
+start, tarts
+state, taste, teats, testa
+stated, tasted
+statement, testament
+states, tastes
+stating, tasting
+stave, vesta
+stayed, steady
+stephen's, stephens'
+stew, west
+stewed, tweeds
+stiff, tiffs
+stimulate, ultimates
+stiver, strive
+stoer, store
+stood, todos
+stout, touts
+stow, twos
+straw, swart, warts
+stray, trays
+struck, trucks
+strut, trust
+struts, trusts
+student, stunted
+sue, use
+suing, using
+suit, tuis
+sun, uns
+surge, urges
+swain, wains
+swarm, warms
+sway, ways
+swear, wares, wears
+sweat, waste
+sweep, weeps
+sweeper, weepers
+swell, wells
+swig, wigs
+swill, wills
+swine, wines
+swing, wings
+swipe, wipes
+swire, weirs, wires
+sword, words
+swore, worse
 
 ---T----
-tallwhitehatted,whitetallhatted
-taters,treats
-taw,wat
-teens,tense
-terminal,tramline
-theatre,thereat
-throat,troath
-throw,worth,wroth
-tilted,titled
-tired,tried
-tloo,tool
-torts,trots
-tory,troy,tyro
-tow,two
-tower,wrote
-towers,towser
-trade,tread
-trail,trial
-transit,tristan
-travel,varlet
-trews,wrest
-trove,votre
-tu,ut
-turnedup,upturned
-turnip,turpin
-turtle,utterl
-tyrannies,tyrannise
+tails, talis
+tallwhitehatted, whitetallhatted
+tantumer, tarentum
+taters, treats
+taw, wat
+teens, tense
+ter, tre
+terminal, tramline
+theatre, thereat
+throat, troath
+throw, worth, wroth
+tilted, titled
+tired, tried
+tloo, tool
+torts, trots
+tory, troy, tyro
+tow, two
+tower, wrote
+towers, towser
+trade, tread
+trail, trial
+transit, tristan
+travel, varlet
+trews, wrest
+trove, votre
+tu, ut
+turnedup, upturned
+turnip, turpin
+turtle, utterl
+tyrannies, tyrannise
 
 ---U----
-united,untied
-unlit,until
+united, untied
+unlit, until
 
 ---V----
-vale,veal
-vast,vats
-views,wives
-vision,voisin
+vale, veal
+vast, vats
+veering, vergine
+views, wives
+vision, voisin
 
 ---W----
-wade,weda
-waist,waits
-waiters,wariest
-wake,weak
-wales,weals
-wants,wasnt
-ware,wear
-weather,whereat
-weir,wire
-weird,wider
-welkin,winkle
-wheedle,wheeled
-whit,with
-whore's,whores'
-widow's,widows'
-wirst,wrist,writs
-wist,wits
-wyse,yews
+waist, waits
+waiters, wariest
+wake, weak
+wales, weals
+wants, wasnt
+ware, wear
+weather, whereat
+weir, wire
+weird, wider
+welkin, winkle
+wheedle, wheeled
+whit, with
+whore's, whores'
+widow's, widows'
+wirst, wrist, writs
+wist, wits
+wyse, yews
