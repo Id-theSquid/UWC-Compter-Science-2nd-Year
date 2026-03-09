@@ -4,10 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class Anagrams {
     public static String signature(String word){
@@ -53,7 +50,22 @@ public class Anagrams {
        }
         System.out.println("Total unique signatures: " + A.size());
 
-        
+        //------------------------------------
+        List<List<String>> anagramGroups = new ArrayList<>();
+        int totalAnagramWords = 0;
+
+        for (String sig : A.keySet()) {
+            List<String> group = A.get(sig);
+            if (group.size() > 1) {  // only keeping groups with more then 2 words
+                Collections.sort(group);
+                anagramGroups.add(group);
+                totalAnagramWords += group.size();
+            }
+            anagramGroups.sort(Comparator.comparing(g -> g.get(0)));
+
+            System.out.println("Anagram groups found: " + anagramGroups.size());
+            System.out.println("Total words that have at least one anagram: " + totalAnagramWords);
+        }
 
 
     }
