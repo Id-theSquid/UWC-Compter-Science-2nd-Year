@@ -4,8 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 
 public class Anagrams {
     public static String signature(String word){
@@ -38,6 +40,20 @@ public class Anagrams {
             }
             fileReader.close();
             System.out.println("Total unique words found: " + D.size());
+          //----------------------------
+        HashMap<String, List<String>> A = new HashMap<>();
+
+        for (String word : D.keySet()) {
+            String sig = signature(word); // computing the word signate
+
+            if (!A.containsKey(sig)) {
+                A.put(sig,new ArrayList<>()); // first time we see it we making a new list
+            }
+            A.get(sig).add(word); // adding the word to the list of signatures
+       }
+        System.out.println("Total unique signatures: " + A.size());
+
+        
 
 
     }
