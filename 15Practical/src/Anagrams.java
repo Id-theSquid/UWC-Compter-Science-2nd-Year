@@ -1,9 +1,6 @@
 //Idwou Popoola
 // 4546626
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
 public class Anagrams {
@@ -61,12 +58,43 @@ public class Anagrams {
                 anagramGroups.add(group);
                 totalAnagramWords += group.size();
             }
-            anagramGroups.sort(Comparator.comparing(g -> g.get(0)));
 
-            System.out.println("Anagram groups found: " + anagramGroups.size());
-            System.out.println("Total words that have at least one anagram: " + totalAnagramWords);
         }
+        anagramGroups.sort(Comparator.comparing(g -> g.get(0)));
+        System.out.println("Anagram groups found: " + anagramGroups.size());
+        System.out.println("Total words that have at least one anagram: " + totalAnagramWords);
+        //--------------------------
 
+        String outputFile = "anagrams_output.txt";
+
+        try (PrintWriter writer = new PrintWriter(new FileWriter(outputFile))) {
+            writer.println("=====ANAGRAM DICTIONARY=======");
+            writer.println("Generated from: " + filename);
+            writer.println("Total anagram groups: " + anagramGroups.size());
+            writer.println("===============================");
+            writer.println();
+
+            char currentLetter  = ' ';
+            for (List<String> group : anagramGroups) {
+                char firstLetter = group.get(0).charAt(0);
+                if (Character.toLowerCase(firstLetter) !=Character.toLowerCase(currentLetter)){
+                    currentLetter = firstLetter;
+                    writer.println("\n---" + Character.toUpperCase(currentLetter) + "----");
+                }
+                writer.println(String.join("," , group));
+            }
+
+            System.out.println("\nAnagram dictionary was written to: " + outputFile);
+            System.out.println("\nFirst 20 anagram groups (preview):");
+            System.out.println("==========================================");
+
+            int preview = Math.min(20, anagramGroups.size());
+            for (int i = 0; i < preview; i++) {
+                System.out.println(String.join(", ", anagramGroups.get(i)));
+            }
+        } catch (IOException e){
+            System.err.println("ERROR writing output file: " + e.getMessage());
+        }
 
     }
 
