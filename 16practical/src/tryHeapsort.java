@@ -82,5 +82,12 @@ public class tryHeapsort {
             return out;
         }
     }
+    private static Heap runBottomUp(Node[] input, int size) {
+        Heap h = new Heap();
+        h.A = new Node[size + 1];   // index 0 unused (1-based)
+        h.buildup(input, size);
+        h.heapsort();
+        return h;
+    }
 }
 
