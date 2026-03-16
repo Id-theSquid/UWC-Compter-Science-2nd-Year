@@ -68,6 +68,13 @@ public class tryHeapsort {
                 insert(X[i]);
             }
         }
+        public void heapsort(){
+            while (n > 1) {
+                swap(1,n);
+                n--;
+                heapify(1);
+            }
+        }
 
     }
 }
