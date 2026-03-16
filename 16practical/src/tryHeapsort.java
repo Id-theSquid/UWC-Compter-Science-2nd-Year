@@ -126,5 +126,25 @@ public class tryHeapsort {
 
         return nodes;
     }
+    private static void timeBoth(Node[] input, int size) {
+
+        long t1 = System.nanoTime();
+        Heap buHeap = runBottomUp(input, size);
+        long buTime = System.nanoTime() - t1;
+
+        long t2 = System.nanoTime();
+        Heap tdHeap = runTopDown(input, size);
+        long tdTime = System.nanoTime() - t2;
+
+        System.out.println("\n-----Timing Results ---");
+        System.out.println("Words sorted: " + size);
+        System.out.println("buildUp(bottom-up): " + buTime / 1_000_000 + " ms");
+        System.out.println("buildDown(top-down): " + tdTime / 1_000_000 + " ms");
+
+        if (buTime < tdTime)
+            System.out.println("=> buildUp was faster");
+        else
+            System.out.println("=> buildDown was faster");
+    }
 }
 
