@@ -3,6 +3,12 @@
 // Used claude to structure the practical pdf better to understand
 //2026/03/16
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.List;
+
 public class tryHeapsort {
     static class Node {
         String key;
@@ -96,6 +102,29 @@ public class tryHeapsort {
         h.buildDown(input, size);
         h.heapsort();
         return h;
+    }
+    private static Node[] loadNodes(String filePath) throws IOException {
+        List<String> words = new ArrayList<>();
+        for (String raw : Files.readAllLines(Path.of(filePath))) {
+            String line = raw.trim();
+            if (line.isEmpty())               continue;
+            if (line.startsWith("="))         continue;
+            if (line.startsWith("Generated")) continue;
+            if (line.startsWith("Total"))     continue;
+            if (line.matches("---.*---"))     continue;
+            if (line.matches("\\d+"))         continue;
+
+            for (String token : line.split(",")) {
+                String w = token.trim().toLowerCase();
+                if (!w.isEmpty()) words.add(w);
+            }
+        }
+        Node[] nodes = new Node[words.size() + 1];
+        nodes[0] = null;
+        for (int i = 0; i < words.size(); i++)
+            nodes[i + 1] = new Node(words.get(i));
+
+        return nodes;
     }
 }
 
