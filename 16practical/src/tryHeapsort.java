@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class tryHeapsort {
@@ -145,6 +146,39 @@ public class tryHeapsort {
             System.out.println("=> buildUp was faster");
         else
             System.out.println("=> buildDown was faster");
+    }
+    private static void smokeTest() {
+        String[] words = {
+                "ulysses", "bloom", "stephen", "molly", "dedalus",
+                "odyssey", "dublin", "wandering", "conscience", "stream",
+                "nighttown", "sirens", "cyclops", "nausicaa", "proteus",
+                "telemachus", "calypso", "hades", "aeolus", "penelope"
+        };
+        int size = words.length;
+
+        Node[] input = new Node[size + 1];
+        input[0] = null;
+        for (int i = 0; i < size; i++)
+            input[i + 1] = new Node(words[i]);
+
+        System.out.println("\n========================================================");
+        System.out.println(" TEST (" + size + " words)");
+        System.out.println("========================================================");
+        System.out.print(" Input : ");
+        for (int i = 1; i <= size; i++) System.out.print(input[i] + " ");
+        System.out.println();
+
+        Heap buHeap = runBottomUp(input, size);
+        String[] buSorted = buHeap.getSortedWords(size);
+        System.out.println("\n(a) buildUp + heapSort:");
+        System.out.println("      " + Arrays.toString(buSorted));
+
+
+        Heap tdHeap = runTopDown(input, size);
+        String[] tdSorted = tdHeap.getSortedWords(size);
+        System.out.println("\n(b) buildDown [insert(Node)] + heapSort:");
+        System.out.println("      " + Arrays.toString(tdSorted));
+        
     }
 }
 
