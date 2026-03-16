@@ -75,7 +75,12 @@ public class tryHeapsort {
                 heapify(1);
             }
         }
-
+        public String[] getSortedWords(int originalSize) {
+            String[] out = new String[originalSize];
+            for (int i = 0; i < originalSize; i++)
+                out[i] = A[i + 1].key;
+            return out;
+        }
     }
 }
 
