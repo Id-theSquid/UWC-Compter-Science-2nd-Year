@@ -1,3 +1,8 @@
+// idowu Popoola
+// 4546626
+// Used claude to structure the practical pdf better to understand
+//2026/03/16
+
 public class tryHeapsort {
     static class Node {
         String key;
@@ -37,6 +42,18 @@ public class tryHeapsort {
                 }
             }
         }
+        public void insert(Node N){
+            n++;
+            int i = n;
+
+            while (i > 1 && A[parent(i)].compareTo(N) < 0) {
+                A[i] = A[parent(i)];
+                i = parent(i);
+            }
+            A[i] = N;
+        }
+
+
     }
 }
 
