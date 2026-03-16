@@ -52,7 +52,16 @@ public class tryHeapsort {
             }
             A[i] = N;
         }
-
+        // O(nlogn since we diving)
+        public void buildup(Node[] X ,int sizeX){
+            for (int i = 0; i <= sizeX; i++) {
+               A[i] = X[i];
+               n= sizeX;
+            }
+            for (int i = n/2; i > 0 ; i--) {
+                heapify(i);
+            }
+        }
 
     }
 }
