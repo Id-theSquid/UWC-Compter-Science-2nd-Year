@@ -178,7 +178,45 @@ public class tryHeapsort {
         String[] tdSorted = tdHeap.getSortedWords(size);
         System.out.println("\n(b) buildDown [insert(Node)] + heapSort:");
         System.out.println("      " + Arrays.toString(tdSorted));
-        
+
     }
+
+    public static void main(String[] args) {
+        String filepath = "anagrams_output.txt";
+        smokeTest();
+        Node[] input = new Node[0];
+        try {
+            input = loadNodes(filepath);
+        } catch (IOException e){
+            System.out.println("Problem finding the textfile");
+        }
+        int size = input.length-1;
+        // A
+        System.out.println("-----------------------------");
+        System.out.println("A) buildup");
+        System.out.println("--------------------------------");
+        Heap buHeap = runBottomUp(input, size);
+        String[] buSorted = buHeap.getSortedWords(size);
+        System.out.println(" First 20 sorted words:");
+        for (int i = 0; i < Math.min(20, size); i++)
+            System.out.printf("    [%4d]  %s%n", i + 1, buSorted[i]);
+        System.out.println("  ...");
+        System.out.println("  Last 20 sorted words:");
+        for (int i = Math.max(0, size - 20); i < size; i++)
+            System.out.printf("    [%4d]  %s%n", i + 1, buSorted[i]);
+
+        // B
+        System.out.println("-----------------------------");
+        System.out.println("B) buildDown");
+        System.out.println("--------------------------------");
+        Heap tdHeap = runTopDown(input, size);
+        String[] tdSorted = tdHeap.getSortedWords(size);
+        System.out.println("  First 20 sorted words:");
+        for (int i = 0; i < Math.min(20, size); i++)
+            System.out.printf("    [%4d]  %s%n", i + 1, tdSorted[i]);
+         // (d) and (e)
+        timeBoth(input, size);
+    }
+
 }
 
