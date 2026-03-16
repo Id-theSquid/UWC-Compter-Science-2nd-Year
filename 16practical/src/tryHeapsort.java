@@ -62,6 +62,12 @@ public class tryHeapsort {
                 heapify(i);
             }
         }
+        public void buildDown(Node[] X, int sizeX) {
+            n = 0;
+            for (int i = 1; i <= sizeX ; i++) {
+                insert(X[i]);
+            }
+        }
 
     }
 }
