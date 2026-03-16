@@ -89,5 +89,13 @@ public class tryHeapsort {
         h.heapsort();
         return h;
     }
+
+    private static Heap runTopDown(Node[] input, int size) {
+        Heap h = new Heap();
+        h.A = new Node[size + 1];
+        h.buildDown(input, size);
+        h.heapsort();
+        return h;
+    }
 }
 
