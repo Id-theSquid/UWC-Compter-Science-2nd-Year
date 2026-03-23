@@ -58,8 +58,28 @@ class Tree {
         }
         if (key < node.key){
             node.left = removeRec(node.left,key);
+        } else if (key > node.key) {
+            node.right = removeRec(node.right,key);
         }
-        return isBSTRec(node.left,min,node.key) && isBSTRec(node.right,node.key,max);
+        else {
+            //no child
+            if(node.left == null && node.right == null){
+                return null;
+            }
+            //one child
+            if (node.left == null){
+                return node.right;
+            }
+            if (node.right == null){
+                return node.left;
+            }
+            //two children
+            int maxLeft = findMax(node.left);
+            node.key = maxLeft;
+            node.left = removeRec(node.left,maxLeft);
+
+        }
+return node;
     }
 
 }
