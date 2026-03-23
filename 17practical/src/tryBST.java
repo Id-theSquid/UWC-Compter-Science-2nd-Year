@@ -100,5 +100,15 @@ return node;
         if (node.key % 2 == 0)
             remove(node.key);
     }
-
+public  class tryBST{
+        public static void buildBalanced(Tree T,int start,int end){
+            if (start > end){
+                return;
+            }
+            int mid = (start + end) / 2;
+            T.insert(mid);
+            buildBalanced(T,start,mid-1);
+            buildBalanced(T,mid+1,end);
+        }
+}
 }
