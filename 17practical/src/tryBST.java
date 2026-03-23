@@ -82,4 +82,23 @@ class Tree {
 return node;
     }
 
+    private int findMax(tNode node){
+        while (node.right != null){
+            node = node.right;
+        }
+        return node.key;
+    }
+    public void removeEvens(){
+        removeEvensRec(root);
+    }
+    private void  removeEvensRec(tNode node){
+        if(node == null){
+            return;
+        }
+        removeEvensRec(node.left);
+        removeEvensRec(node.right);
+        if (node.key % 2 == 0)
+            remove(node.key);
+    }
+
 }
